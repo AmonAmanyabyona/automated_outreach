@@ -1,3 +1,6 @@
 venv/
 1.project_steps.txt
 git_steps.txt
+berlin_cafes.csv
+cafes_all.csv
+munich_cafes.csv

@@ -14,3 +14,9 @@ venv/
 
 6.Install the packages in the requirements file
 pip install -r requirements.txt
+
+
+#Install overpy
+pip install overpy
+
+pip install py2neo pandas
