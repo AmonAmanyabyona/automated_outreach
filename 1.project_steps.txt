@@ -1,0 +1,16 @@
+1.virtual environment
+python -m venv venv
+
+2.Activate it 
+source venv/bin/activate
+
+3.Create a .gitignore file in your project root (if it doesn't exist):
+touch .gitignore
+
+4.then add the venv like below
+venv/
+
+5. git add .gitignore
+
+6.Install the packages in the requirements file
+pip install -r requirements.txt

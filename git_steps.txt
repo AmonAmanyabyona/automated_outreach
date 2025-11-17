@@ -1,0 +1,13 @@
+git clone https://github.com/AmonAmanyabyona/my_portfolio.git
+
+touch .gitignore
+
+then add it to repo
+git add .gitignore
+
+then make changes and add them
+git add .
+git commit -m "Initial portfolio setup"
+
+then push them
+git push origin main
