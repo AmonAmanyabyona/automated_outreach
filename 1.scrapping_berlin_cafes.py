@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Demo: Discover 50 cafés in Berlin using OpenStreetMap's Overpass API
 and save results into a CSV file.
